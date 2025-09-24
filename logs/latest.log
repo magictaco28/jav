@@ -1,0 +1,126 @@
+[05:38:01] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[05:38:01] [Server thread/INFO]: Loading properties
+[05:38:01] [Server thread/INFO]: Default game type: SURVIVAL
+[05:38:01] [Server thread/INFO]: Generating keypair
+[05:38:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:38:01] [Server thread/INFO]: Using default channel type
+[05:38:01] [Server thread/INFO]: Preparing level "world"
+[05:38:02] [Server thread/INFO]: Loaded 488 advancements
+[05:38:02] [Server thread/INFO]: Preparing start region for level 0
+[05:38:03] [Server thread/INFO]: Done (1.264s)! For help, type "help" or "?"
+[05:42:53] [User Authenticator #1/INFO]: UUID of player Midnight_Noir is 43295cf8-503b-49ce-888a-8296771da5ee
+[05:42:53] [Server thread/INFO]: Midnight_Noir[/127.0.0.1:55458] logged in with entity id 243 at (178.5, 63.0, 254.5)
+[05:42:53] [Server thread/INFO]: Midnight_Noir joined the game
+[05:43:45] [Server thread/INFO]: Opped Midnight_Noir
+[05:43:52] [Server thread/INFO]: [Server] you a bitch
+[05:44:32] [Server thread/INFO]: [Server] its vanilla 1.12 dont know what you expect from it
+[05:45:01] [Server thread/INFO]: There are 1/20 players online:
+[05:45:01] [Server thread/INFO]: Midnight_Noir
+[05:45:11] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[05:45:15] [Server thread/INFO]: --- Showing help page 7 of 10 (/help <page>) ---
+[05:45:15] [Server thread/INFO]: /setworldspawn [<x> <y> <z>]
+[05:45:15] [Server thread/INFO]: /spawnpoint [player] [<x> <y> <z>]
+[05:45:15] [Server thread/INFO]: /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+[05:45:15] [Server thread/INFO]: /stats <entity|block> ...
+[05:45:15] [Server thread/INFO]: /stop
+[05:45:15] [Server thread/INFO]: /stopsound <player> [source] [sound]
+[05:45:15] [Server thread/INFO]: /summon <entityname> [x] [y] [z] [dataTag]
+[05:45:20] [Server thread/INFO]: --- Showing help page 6 of 10 (/help <page>) ---
+[05:45:20] [Server thread/INFO]: /save-off
+[05:45:20] [Server thread/INFO]: /save-on
+[05:45:20] [Server thread/INFO]: /say <message ...>
+[05:45:20] [Server thread/INFO]: /scoreboard <objectives|players|teams> ...
+[05:45:20] [Server thread/INFO]: /seed
+[05:45:20] [Server thread/INFO]: /setblock <x> <y> <z> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+[05:45:20] [Server thread/INFO]: /setidletimeout <minutes>
+[05:45:24] [Server thread/INFO]: --- Showing help page 5 of 10 (/help <page>) ---
+[05:45:24] [Server thread/INFO]: /pardon-ip <address>
+[05:45:24] [Server thread/INFO]: /particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode] [player] [params]
+[05:45:24] [Server thread/INFO]: /playsound <sound> <source> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[05:45:24] [Server thread/INFO]: /recipe <give|take> [player] <name|*>
+[05:45:24] [Server thread/INFO]: /reload
+[05:45:24] [Server thread/INFO]: /replaceitem <entity|block> ...
+[05:45:24] [Server thread/INFO]: /save-all [flush]
+[05:45:37] [Server thread/INFO]: --- Showing help page 4 of 10 (/help <page>) ---
+[05:45:37] [Server thread/INFO]: /kick <player> [reason ...]
+[05:45:37] [Server thread/INFO]: /kill [player|entity]
+[05:45:37] [Server thread/INFO]: /list
+[05:45:37] [Server thread/INFO]: /locate <feature>
+[05:45:37] [Server thread/INFO]: /me <action ...>
+[05:45:37] [Server thread/INFO]: /op <player>
+[05:45:37] [Server thread/INFO]: /pardon <name>
+[05:45:45] [Server thread/INFO]: --- Showing help page 3 of 10 (/help <page>) ---
+[05:45:45] [Server thread/INFO]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
+[05:45:45] [Server thread/INFO]: /fill <x1> <y1> <z1> <x2> <y2> <z2> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+[05:45:45] [Server thread/INFO]: /function <name> [if <selector>|unless <selector>]
+[05:45:45] [Server thread/INFO]: /gamemode <mode> [player]
+[05:45:45] [Server thread/INFO]: /gamerule <rule name> [value]
+[05:45:45] [Server thread/INFO]: /give <player> <item> [amount] [data] [dataTag]
+[05:45:45] [Server thread/INFO]: /help [page|command name]
+[05:49:14] [Server thread/INFO]: Midnight_Noir has made the advancement [Sweet dreams]
+[05:50:21] [Server thread/INFO]: Midnight_Noir has made the advancement [Stone Age]
+[05:51:20] [Server thread/INFO]: Midnight_Noir has made the advancement [Getting an Upgrade]
+[06:03:10] [Server thread/INFO]: Midnight_Noir has made the advancement [Acquire Hardware]
+[06:03:18] [Server thread/INFO]: Midnight_Noir has made the advancement [Isn't It Iron Pick]
+[06:03:48] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[06:05:58] [Server thread/INFO]: [Server] when you gettin diamonds?
+[06:06:20] [Server thread/INFO]: <Midnight_Noir> In like 1 or so minutes
+[06:06:40] [Server thread/INFO]: [Server] slow ass/say slow ass nigga
+[06:08:43] [Server thread/INFO]: <Midnight_Noir> Why is There So Much Fucking Lava
+[06:09:32] [Server thread/INFO]: [Server] pre cave update
+[06:09:53] [Server thread/INFO]: <Midnight_Noir> I forgot how Gay this is lmao
+[06:11:58] [Server thread/INFO]: [Server] gotta have that water bucket
+[06:17:21] [Server thread/INFO]: <Midnight_Noir> Bro Do Diamonds not exist I Have been Mining On Y Level 5-8 For Years
+[06:19:44] [Server thread/INFO]: [Server] im pretty sure its y10-12 up until deepslate was inttoduced
+[06:20:15] [Server thread/INFO]: <Midnight_Noir> nah I Rember Digging to bedrock then Up 5
+[06:20:15] [Server thread/INFO]: [Server] or around/beneath lava
+[06:21:35] [Server thread/INFO]: [Server] diamonds spawn beneath ~y16 but are optimally around 8-12 or some shit
+[06:29:12] [Server thread/INFO]: <Midnight_Noir> Bruhhhhhhhhhh 2 iron Pickaxes at Y level ten for 3 peices of Gold.......fuck This i want skyblock lmao
+[06:54:05] [Server thread/INFO]: [Server] yo you online?
+[07:38:17] [Server thread/INFO]: <Midnight_Noir> yuh
+[07:47:06] [Server thread/INFO]: Midnight_Noir has made the advancement [A Seedy Place]
+[07:49:55] [Server thread/INFO]: Midnight_Noir has made the advancement [Monster Hunter]
+[07:51:07] [Server thread/INFO]: Midnight_Noir has made the advancement [Suit Up]
+[07:59:15] [Server thread/INFO]: [Server] still no diamonds?
+[08:01:32] [Server thread/INFO]: <Midnight_Noir> no......
+[08:01:46] [Server thread/INFO]: <Midnight_Noir> 7 iron picks in
+[08:03:08] [Server thread/INFO]: [Server] get absoluetely fucked i guess
+[08:03:40] [Server thread/INFO]: Midnight_Noir has made the advancement [Diamonds!]
+[08:03:55] [Server thread/INFO]: <Midnight_Noir> sweet merciful buddha
+[08:05:58] [Server thread/INFO]: Midnight_Noir burned to death
+[08:06:11] [Server thread/INFO]: [Server] lol
+[08:06:21] [Server thread/INFO]: <Midnight_Noir> ran out of food had to factory reset
+[08:08:05] [Server thread/INFO]: Midnight_Noir has made the advancement [Not Today, Thank You]
+[08:11:33] [Server thread/INFO]: Midnight_Noir has made the advancement [Ice Bucket Challenge]
+[08:19:30] [Server thread/INFO]: Midnight_Noir has made the advancement [We Need to Go Deeper]
+[08:19:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4723ms behind, skipping 94 tick(s)
+[08:19:31] [Server thread/WARN]: Midnight_Noir moved too quickly! -363.06482546708605,-3.0,-10.800000011920929
+[08:20:00] [Server thread/INFO]: <Midnight_Noir> 55,53,0
+[08:29:56] [Server thread/INFO]: [Server] what?
+[08:30:11] [Server thread/INFO]: <Midnight_Noir> nether portal chords
+[08:30:22] [Server thread/INFO]: <Midnight_Noir> coords
+[08:30:49] [Server thread/INFO]: [Server] aight, server was overloaded a little as well 15-20min ago
+[08:33:53] [Server thread/INFO]: Midnight_Noir has made the advancement [A Terrible Fortress]
+[08:39:29] [Server thread/INFO]: Midnight_Noir has made the advancement [Into Fire]
+[09:22:24] [Server thread/WARN]: Midnight_Noir moved too quickly! 363.2084008037282,3.0,10.803880277317926
+[09:23:01] [Server thread/INFO]: [Server] didya get any eyes of ender yet?
+[09:23:51] [Server thread/INFO]: <Midnight_Noir> Nope thisis before the nether update so i have to either find a villager or out in the wild
+[09:26:23] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[09:26:34] [Server thread/INFO]: [Server] figured id still adk
+[09:34:39] [Server thread/INFO]: [Server] a vast open desert or plains would probably be best if you plan on hunting enderman
+[09:42:10] [Server thread/INFO]: Midnight_Noir lost connection: Disconnected
+[09:42:10] [Server thread/INFO]: Midnight_Noir left the game
+[16:33:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8339ms behind, skipping 166 tick(s)
+[16:38:25] [Server thread/INFO]: Stopping the server
+[16:38:25] [Server thread/INFO]: Stopping server
+[16:38:25] [Server thread/INFO]: Saving players
+[16:38:25] [Server thread/INFO]: Saving worlds
+[16:38:25] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[16:38:25] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[16:38:25] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[16:38:25] [Server Shutdown Thread/INFO]: Stopping server
+[16:38:25] [Server Shutdown Thread/INFO]: Saving players
+[16:38:25] [Server Shutdown Thread/INFO]: Saving worlds
+[16:38:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[16:38:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_nether
+[16:38:25] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/the_end
